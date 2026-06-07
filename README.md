@@ -5,4 +5,9 @@ import os
 
 for root, dirs, files in os.walk("dataset"):
     print(root)
+
+# OPEN GOOGLE COLLAB AND TRAIN YOUR DATASET USING CNN DEEP LEARNING MODE
+
+
+
 # callmepandey03
